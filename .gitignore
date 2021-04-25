@@ -24,3 +24,5 @@ hs_err_pid*
 /.idea/
 /target/
 /tomcat/
+/src/main/resources/rebel.xml
+/src/main/resources/rebel-remote.xml

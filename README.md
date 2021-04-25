@@ -1,0 +1,1 @@
+# spring-boot-map-custom-resource-properties-into-java-object

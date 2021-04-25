@@ -18,7 +18,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 @SpringBootTest(classes = CustomerInfoApplication.class)
-@ActiveProfiles("test")
+@ActiveProfiles("dev")
 public class CustomerServiceIntegrationTest {
 
     @Autowired
